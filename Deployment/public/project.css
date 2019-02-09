@@ -1,0 +1,84 @@
+h1{
+  margin-top: 4px;
+  text-shadow: 40pt;
+  text-align: center;
+  color:darkblue;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50pt;
+ 
+}
+.flex-container{
+    display:flex;
+  justify-content: space-evenly; 
+  flex-wrap: wrap;
+  margin: 4px;
+  
+    }
+    #flex-items{
+   padding: 4px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   size: 200in;
+   background:blue;
+  
+    }
+
+    
+    body{
+      background-image: url("/crystal.jpeg")
+    }
+    .m{
+      width: 200pt;
+      background: lavender;
+     
+      
+    }
+    
+    #disappear{
+      cursor: not-allowed;
+      align-self: center;
+      height: 30pt;
+      width: 90pt;
+    }
+    
+    #subBtn{
+      width: 2000px;
+    }
+
+    #dilMile{
+      margin-top: 10px;
+      margin-bottom: 10px;
+      height:60px;
+      width:4000px;
+      text-align: center;
+      font-size: 30px;
+      }
+
+      p{
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: black;
+        -webkit-text-stroke-width: 0.5px;
+   -webkit-text-stroke-color: black;
+      }
+
+      #sideImage{
+        border-radius: 50%;
+         margin-left: 8pt;
+         margin-right: 8pt;
+         border: 4px solid darkblue;
+      }
+
+      #participants{
+      height: 25pt;
+      align-self: center;
+      }
+
+      #participButn{
+        width: 90pt;
+        align-self: center;
+     height: 30pt;
+      }
+
+   
+   
